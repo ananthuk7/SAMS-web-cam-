@@ -1,0 +1,4 @@
+1) Start xammp
+2) import faceattendancesystem.sql file
+3) open cmd prompt in project folder
+4) Type python Registration.py in cmd prompt to run the project
